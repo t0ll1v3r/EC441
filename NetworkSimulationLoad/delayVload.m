@@ -1,3 +1,5 @@
+% Program plots the average end-to-end delay of the received packets versus the network load.
+
 minDelays = zeros(1, 10);
 maxDelays = zeros(1, 10);
 
