@@ -1,3 +1,5 @@
+% Program plots the percentage of packet loss versus the network load.
+
 packetLossPercentages = zeros(1, 10);
 
 % loop over files and calculate packet loss for each load
